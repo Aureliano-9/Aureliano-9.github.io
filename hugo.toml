@@ -1,0 +1,5 @@
+baseURL = 'http://Aureliano-9.github.io/'
+languageCode = 'en-us'
+title = 'Aureliano-9'
+BookSection = 'docs'
+theme = 'hugo-book'
