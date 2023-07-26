@@ -2,11 +2,11 @@
 headless: true
 ---
 
-- [**文章**]({{< relref "/docs/文章" >}})
-- [Biotech]({{< relref "/docs/文章/Biotech" >}})
-  - [常温扩增]({{< relref "/docs/文章/Biotech/常温扩增" >}})
-  - [链置换]({{< relref "/docs/文章/Biotech/链置换" >}})
-- [随笔]({{< relref "/docs/文章/随笔" >}})
+- [**Example Site**]({{< relref "/docs/example" >}})
+- [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
+  - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
+  - [Without ToC]({{< relref "/docs/example/table-of-contents/without-toc" >}})
+- [Collapsed]({{< relref "/docs/example/collapsed" >}})
   - [3rd]({{< relref "/docs/example/collapsed/3rd-level" >}})
     - [4th]({{< relref "/docs/example/collapsed/3rd-level/4th-level" >}})
 <br />
