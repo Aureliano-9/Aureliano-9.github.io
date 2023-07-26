@@ -11,6 +11,11 @@ headless: true
     - [4th]({{< relref "/docs/example/collapsed/3rd-level/4th-level" >}})
 <br />
 
+- [**Biotech**]({{< relref "/docs/Biotech" >}})
+  - [链置换反应]({{< relref "/docs/Biotech/链置换" >}})
+  - [常温扩增]({{< relref "/docs/Biotech/常温扩增" >}})
+<br />
+
 - **Shortcodes**
 - [Buttons]({{< relref "/docs/shortcodes/buttons" >}})
 - [Columns]({{< relref "/docs/shortcodes/columns" >}})
