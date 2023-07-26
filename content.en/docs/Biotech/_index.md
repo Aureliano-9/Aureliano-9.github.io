@@ -1,6 +1,6 @@
 ---
-weight: 1
-bookFlatSection: true
+bookCollapseSection: true
+weight: 20
 title: "Biotech"
 ---
 
