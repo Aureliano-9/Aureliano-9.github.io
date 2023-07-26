@@ -27,13 +27,13 @@ enableGitInfo = true
 [languages.en]
   languageName = '简体中文'
   contentDir = 'content.zh'
-  weight = 12
+  weight = 1
 
 
 [languages.zh]
   languageName = 'English'
   contentDir = 'content.en'
-  weight = 21
+  weight = 2
 
 [menu]
 # [[menu.before]]
