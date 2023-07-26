@@ -1,7 +1,7 @@
 ---
 bookCollapseSection: true
 weight: 20
-title: "Biotech"
+title: "生物技术"
 ---
 
 # Biotech 
