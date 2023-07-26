@@ -11,5 +11,5 @@ headless: true
   - [Poem]({{< relref "/Blog/Anthology/Poem" >}})
     - [夏秋冬]({{< relref "/Blog/Anthology/Poem/夏秋冬" >}})
   - [Alien-Consulate]({{< relref "/Blog/Anthology/Alien-Consulate" >}})
-    - [各取所需]({{< relref "/Blog/Anthology/Alien Consulate/各取所需" >}})
+    - [各取所需]({{< relref "/Blog/Anthology/Alien-Consulate/各取所需" >}})
 <br />

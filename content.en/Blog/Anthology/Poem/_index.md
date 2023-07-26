@@ -1,9 +1,9 @@
 ---
 bookCollapseSection: true
 weight: 10
-title: 小诗
+title: Poem
 ---
 
-# 小诗
+# Poem
 
 诗意人生
