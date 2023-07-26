@@ -1,5 +1,7 @@
 ---
+bookCollapseSection: true
 weight: 10
+title: 异星领事馆
 ---
 
 # 异星领事馆
