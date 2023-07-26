@@ -6,7 +6,7 @@ headless: true
 - [Biotech]({{< relref "/docs/文章/Biotech" >}})
   - [常温扩增]({{< relref "/docs/文章/Biotech/常温扩增" >}})
   - [链置换]({{< relref "/docs/文章/Biotech/链置换" >}})
-- [随笔]({{< relref "/docs/example/collapsed" >}})
+- [随笔]({{< relref "/docs/文章/随笔" >}})
   - [3rd]({{< relref "/docs/example/collapsed/3rd-level" >}})
     - [4th]({{< relref "/docs/example/collapsed/3rd-level/4th-level" >}})
 <br />
