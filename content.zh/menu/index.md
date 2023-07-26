@@ -2,9 +2,9 @@
 headless: true
 ---
 
-- [**Biotech**]({{< relref "/docs/Biotech" >}})
-  - [链置换反应]({{< relref "/docs/Biotech/链置换" >}})
-  - [常温扩增]({{< relref "/docs/Biotech/常温扩增" >}})
+- [**生物技术**]({{< relref "/docs/生物技术" >}})
+  - [链置换反应]({{< relref "/docs/生物技术/链置换" >}})
+  - [常温扩增]({{< relref "/docs/生物技术/常温扩增" >}})
 <br />
 
 - [**文集**]({{< relref "/docs/文集" >}})
