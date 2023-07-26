@@ -1,7 +1,7 @@
 ---
 bookCollapseSection: true
 weight: 20
-title: "文集"
+title: "个人文集"
 ---
 
 # 文集
