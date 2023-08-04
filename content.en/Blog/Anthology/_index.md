@@ -6,7 +6,6 @@ menu:
 title: Blog
 bookCollapseSection: true
 weight: 20
-title: "Anthology"
 ---
 
 # 文集
