@@ -2,7 +2,7 @@ baseURL = 'http://Aureliano-9.github.io/'
 languageCode = 'en-us'
 title = 'Aureliano-9'
 BookSection = 'docs'
-theme = 'hugo-book'
+theme = 'starter-hugo-academic'
 
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
